@@ -5,6 +5,6 @@ for(let pos = 0; pos<valores.length; pos++){
     console.log(`A posicao ${pos} tem valor ${valores[pos]}`)
 }*/
 
-for(let pos in valores){
+for(let pos in valores){ 
     console.log(`A posicao ${pos} tem o valor ${valores[pos]}`)
 }
